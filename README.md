@@ -1,7 +1,7 @@
 # zhihu_unfollow
 
 复制如下代码：
-`
+<pre>
 i = 1;
 function unfollow() {
   window.scrollTo(0, document.body.scrollHeight);
@@ -14,7 +14,7 @@ function unfollow() {
   }, 500)
 }
 unfollow()
-`
+</pre
 
 在 https://www.zhihu.com/question/following 执行脚本。
 
