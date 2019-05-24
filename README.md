@@ -1,7 +1,7 @@
 # zhihu_unfollow
 
 复制 zhihu_unfollow.js 中的代码，如下：
-'''js
+'''javascript
 i = 1;
 function unfollow() {
   window.scrollTo(0, document.body.scrollHeight);
